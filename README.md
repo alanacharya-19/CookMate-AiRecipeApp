@@ -13,13 +13,13 @@ The app includes a landing page, auth flow, tab navigation (Home / Explore / Coo
 
 ## Screens
 <p float="left">
-  <img src=".ss/landing.jpeg" width="150" />
-  <img src=".ss/login.jpeg" width="150" />
-  <img src=".ss/home1.jpeg" width="150" />
-  <img src=".ss/explore.jpeg" width="150" />
-  <img src=".ss/recipe.jpeg" width="150" />
-  <img src=".ss/cookbook.jpeg" width="150" />
-  <img src=".ss/profile.jpeg" width="150" />
+  <img src="..ss/landing.jpeg" width="150" />
+  <img src="..ss/login.jpeg" width="150" />
+  <img src="..ss/home1.jpeg" width="150" />
+  <img src="..ss/explore.jpeg" width="150" />
+  <img src="..ss/recipe.jpeg" width="150" />
+  <img src="..ss/cookbook.jpeg" width="150" />
+  <img src="..ss/profile.jpeg" width="150" />
   
   
 </p>
