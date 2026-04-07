@@ -12,6 +12,27 @@ The app includes a landing page, auth flow, tab navigation (Home / Explore / Coo
 ---
 
 ## Screens
+<p float="left">
+  <img src=".ss/landing.jpeg" width="150" />
+  <img src=".ss/login.jpeg" width="150" />
+  <img src=".ss/home1.jpeg" width="150" />
+  <img src=".ss/explore.jpeg" width="150" />
+  <img src=".ss/recipe.jpeg" width="150" />
+  <img src=".ss/cookbook.jpeg" width="150" />
+  <img src=".ss/profile.jpeg" width="150" />
+  
+  
+</p>
+
+<p float="left">
+  <b>Landing Page</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Login Page</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Home Page</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Explore Page</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Recipe Page</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>CookBook Page</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Profile Page</b>
+</p>
 
 - **Landing** (`app/Landing.tsx`): Get Started → Auth
 - **Auth** (`app/Auth.tsx`): Login/Register + Google sign-in
