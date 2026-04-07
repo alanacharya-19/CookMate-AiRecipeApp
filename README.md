@@ -13,15 +13,13 @@ The app includes a landing page, auth flow, tab navigation (Home / Explore / Coo
 
 ## Screens
 <p float="left">
-  <img src="..ss/landing.jpeg" width="150" />
-  <img src="..ss/login.jpeg" width="150" />
-  <img src="..ss/home1.jpeg" width="150" />
-  <img src="..ss/explore.jpeg" width="150" />
-  <img src="..ss/recipe.jpeg" width="150" />
-  <img src="..ss/cookbook.jpeg" width="150" />
-  <img src="..ss/profile.jpeg" width="150" />
-  
-  
+  <img src="../ss/landing.jpeg" width="150" />
+  <img src="../ss/login.jpeg" width="150" />
+  <img src="../ss/home1.jpeg" width="150" />
+  <img src="../ss/explore.jpeg" width="150" />
+  <img src="../ss/recipe.jpeg" width="150" />
+  <img src="../ss/cookbook.jpeg" width="150" />
+  <img src="../ss/profile.jpeg" width="150" />
 </p>
 
 <p float="left">
@@ -33,15 +31,6 @@ The app includes a landing page, auth flow, tab navigation (Home / Explore / Coo
   <b>CookBook Page</b>&nbsp;&nbsp;&nbsp;&nbsp;
   <b>Profile Page</b>
 </p>
-
-- **Landing** (`app/Landing.tsx`): Get Started → Auth
-- **Auth** (`app/Auth.tsx`): Login/Register + Google sign-in
-- **Home** (`app/(tabs)/Home.tsx`): Generate recipes, categories, popular, recently visited
-- **Explore** (`app/(tabs)/Explore.tsx`): Categories + latest recipes
-- **Cookbook** (`app/(tabs)/Cookbook.tsx`): Saved recipes
-- **Profile** (`app/(tabs)/Profile.tsx`): Account actions + links
-- **Food Recipe Details** (`app/FoodRecipes/[id].tsx`): Structured UI (image → title/description → save icon → calories/time → ingredients table → instructions → tips)
-
 ---
 
 ## Tech stack
